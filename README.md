@@ -2,10 +2,7 @@
 
 # Muhammad Hasnain
 
-### iOS Engineer · Swift · Product Delivery · Fintech
-
-![Profile views](https://komarev.com/ghpvc/?username=hasnainkanji&color=7dd3fc&style=flat-square&label=Profile+views)
-![Followers](https://img.shields.io/github/followers/hasnainkanji?style=flat-square&label=Followers&color=7dd3fc&labelColor=0f172a)
+### iOS Engineer · Swift · Consumer Apps · Fintech · E-commerce · PropTech · Telehealth
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:38bdf8&height=120&section=header&animation=twinkling)
 
@@ -76,7 +73,17 @@ I care about clear architecture, reusable components, measurable performance, au
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 
-`Jira` · `Confluence` · `ClickUp` · `Agile / Scrum` · `Product and design collaboration` · `AI-assisted development` · `Mentoring`
+`Jira` · `Confluence` · `ClickUp` · `Agile / Scrum` · `Product and design collaboration` · `AI-assisted development` · `Claude` · `Codex` · `Agent workflows` · `Harness engineering` · `Loop engineering` · `Mentoring`
+
+### AI-Assisted Coding 🤖
+
+![Claude](https://img.shields.io/badge/Claude-AI%20coding-d97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-AI%20coding-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![Agent workflows](https://img.shields.io/badge/Agent%20workflows-7dd3fc?style=for-the-badge&labelColor=0f172a)
+![Harness engineering](https://img.shields.io/badge/Harness%20engineering-7dd3fc?style=for-the-badge&labelColor=0f172a)
+![Loop engineering](https://img.shields.io/badge/Loop%20engineering-7dd3fc?style=for-the-badge&labelColor=0f172a)
+
+`Prompting` · `Task decomposition` · `Tool-using agents` · `Context and harness design` · `Iterative coding loops` · `Code review and test validation`
 
 ## Engineering Focus 🚀
 
@@ -86,24 +93,21 @@ I care about clear architecture, reusable components, measurable performance, au
 - Working across product, design, backend, QA, and platform concerns.
 - Helping engineers grow through mentoring, code reviews, and technical discussions.
 
-## GitHub Activity 📈
+## Apps I’ve Shipped 📱
 
-<div align="center">
+These are public App Store products I built or contributed to:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasnainkanji&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=dbeafe)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainkanji&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=dbeafe)
-
-![GitHub streak](https://streak-stats.demolab.com?user=hasnainkanji&theme=nord&border=7dd3fc&ring=7dd3fc&fire=38bdf8&currStreakLabel=7dd3fc)
-
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=hasnainkanji&bg_color=2e3440&color=dbeafe&line=7dd3fc&point=38bdf8&area=true&hide_border=true)
-
-</div>
+| App | Product | Link |
+| --- | --- | --- |
+| Dubizzle | Classifieds and property marketplace serving millions of monthly active users | [App Store](https://apps.apple.com/cy/app/dubizzle/id892172848) |
+| Motory | Cars for sale marketplace with payment-integrated customer journeys | [App Store](https://apps.apple.com/cy/app/motory-cars-for-sale-online/id1409351471) |
+| Mazad by Motory | Auction-style automotive marketplace with live bidding flows | [App Store](https://apps.apple.com/cy/app/mazad-by-motory-car-auctions/id1559183783) |
 
 ## Find Me Elsewhere 🔗
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100%25-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasnainkanji)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasnainkanji)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasnainkanji)
 
 </div>
