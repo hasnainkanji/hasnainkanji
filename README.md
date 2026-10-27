@@ -1,6 +1,6 @@
 <div align="center">
 
-# Muhammad Hasnain
+# Hasnain Kanji
 
 ### iOS Engineer · Swift · Consumer Apps · Fintech · E-commerce · PropTech · Telehealth
 
