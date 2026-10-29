@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hasnain Kanji
+# Muhammad Hasnain
 
 ### iOS Engineer · Swift · Consumer Apps · Fintech · E-commerce · PropTech · Telehealth
 
@@ -10,7 +10,7 @@
 
 ## Hi there 👋
 
-I’m Hasnain Kanji, an iOS engineer with **8+ years of software engineering experience** building native mobile products with Swift and UIKit. I enjoy turning product ideas into reliable, polished experiences and working closely with product, design, backend, and QA teams from the first interaction concept through App Store release.
+I’m Muhammad Hasnain, an iOS engineer with **8+ years of software engineering experience** building native mobile products with Swift and UIKit. I enjoy turning product ideas into reliable, polished experiences and working closely with product, design, backend, and QA teams from the first interaction concept through App Store release.
 
 At Dubizzle, I owned iOS delivery for the Property vertical and contributed to Motors on a consumer marketplace serving millions of monthly active users. I also contributed to the Core team’s shared networking library, Swift concurrency adoption, third-party SDK integrations, and CI/CD workflows. Earlier, I built and published 5+ iOS apps, including marketplace, auction, banking, and payment-integrated products.
 
